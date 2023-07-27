@@ -1,21 +1,14 @@
 {
-  "name": "next-leaflet-starter",
-  "homepage": "https://next-leaflet-starter.netlify.app",
+  "name": "leafletosm",
+  "homepage": "",
   "version": "0.1.0",
   "license": "MIT",
-  "author": "Colby Fayock <hello@colbyfayock.com>",
+  "author": "Oleg1357",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "export": "next build && next export",
     "start": "next start"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/colbyfayock/next-leaflet-starter"
-  },
-  "bugs": {
-    "url": "https://github.com/colbyfayock/next-leaflet-starter/issues"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
